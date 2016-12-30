@@ -1,0 +1,7 @@
+If you have the installation USB, insert it and and drill down to pool > restricted > b > bcmwl and drag bcmwl-kernel-source to your desktop. 
+Do the same with pool > main > d > dkms and drag dkms to you desktop. Then install:
+
+cd ~/Desktop
+sudo dpkg -i dkms*.deb
+sudo dpkg -i bcmwl*.deb
+sudo modprobe wl

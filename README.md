@@ -12,4 +12,8 @@
 | Communication | Files                 | Gaming        | Graphics              | Programming           | Misc.         |
 | :---:         | :---:                 | :---:         | :---:                 | :---:                 | :---:         |
 | Discord       | Git (PPA)             | Steam         | NVIDIA Drivers (PPA)  | Vim (.vimrc on Git)   | Numix Theme   |
-|               | Synaptic              |               |                       | Visual Studio Code    |               |
+|               | Synaptic              |               |                       | Visual Studio Code    | Nmap(SSH)     |
+
+## Linux (Raspberrian)
+| Communication | Files                 | Gaming        | Graphics              | Programming           | Misc.         |
+| :---:         | :---:                 | :---:         | :---:                 | :---:                 | :---:         |

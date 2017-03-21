@@ -4,7 +4,7 @@
 | Communication | Files                 | Gaming        | Graphics              | Programming           | Misc.         |
 | :---:         | :---:                 | :---:         | :---:                 | :---:                 | :---:         |
 | Discord       | 7zip                  | Steam         | paint.net             | Visual Studio 2017    | OneNote       |
-| Skype         | Sourcetree (Git)      | Origin        | Blender (Steam)       | Visual Studio Code    | Cmder         |
+| Skype         | Sourcetree (Git)      | Origin        | Blender (Steam)       | Visual Studio Code    | Babun         |
 |               |                       |               |                       | Python 3.X            |               |
 
 ## Linux (Ubuntu)

@@ -1,0 +1,3 @@
+To be able to use the o' so glorious RGB settings (and others) with the Corsair
+keyboards on Linux follow this:
+https://github.com/ccMSC/ckb#linux-installation. ITS BEAUTIFUL!

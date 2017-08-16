@@ -15,7 +15,7 @@ sudo apt-get install "git" -y       # Version control
 sudo apt-get install "vim" -y       # File editing
 sudo apt-get install "premake4" -y  # Makefile creator
 sudo apt-get install "lua5.3" -y    # Lua files
-sudo apt-get install "python3.6"    # Most recent python version
+sudo apt-get install "python3.6" -y # Most recent python version
 sudo apt-get install "oracle-java9-installer" -y  # Java 9 JDK
 
 # Networking

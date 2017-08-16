@@ -4,6 +4,8 @@
 sleep 2 && echo "Adding repositories..."
 sudo apt-add-repository ppa:graphics-drivers/ppa -y
 sudo apt-add-repository ppa:numix/ppa -y
+sudo apt-add-repository ppa:webupd8team/java -y
+
 
 sudo apt-get update # Update the PPA's
 
@@ -13,6 +15,8 @@ sudo apt-get install "git" -y       # Version control
 sudo apt-get install "vim" -y       # File editing
 sudo apt-get install "premake4" -y  # Makefile creator
 sudo apt-get install "lua5.3" -y    # Lua files
+sudo apt-get install "python3.6"    # Most recent python version
+sudo apt-get install "oracle-java9-installer" -y  # Java 9 JDK
 
 # Networking
 sleep 2 && echo "Adding Networking tools.."
@@ -33,7 +37,7 @@ sudo apt-get install "unity-tweak-tool" -y  # Manage themes
 sudo apt-get install "net-tools" -y         # Helps show network properties
 
 # Themes
-sleep 2 && echo "Adding themse.."
+sleep 2 && echo "Adding themes.."
 sudo apt-get install "numix-gtk-theme" "numix-icon-theme-circle" -y
 
 # Update and close Ubuntu

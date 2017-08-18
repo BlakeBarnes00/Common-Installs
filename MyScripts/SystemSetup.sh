@@ -38,7 +38,10 @@ sudo apt-get install "net-tools" -y         # Helps show network properties
 
 # Themes
 sleep 2 && echo "Adding themes.."
-sudo apt-get install "numix-gtk-theme" "numix-icon-theme-circle" -y
+sudo apt-get install "numix-gtk-theme" -y 
+sudo apt-get install "numix-icon-theme-circle" -y
+sudo apt-get install "numix-folders" -y
+
 
 # Update and close Ubuntu
 sudo apt-get upgrade -y

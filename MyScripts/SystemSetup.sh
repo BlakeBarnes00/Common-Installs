@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Program to help set up a new Linux install
+# Developed by Ellis Barnes August 2017
+
 if [ "$1" = "help" ]
 then
   echo "themes            - Install theme manager and themes"
